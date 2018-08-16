@@ -24,6 +24,10 @@ The program does nothing to alphabetical characters.
 Example Input: A
 Example Output: A
 
+The program does not convert input 0.
+Example Input: 0
+Example Output: invalid
+
 The program converts basic numbers listed in variable numbers.
 Example Input: 1
 Example Output: I
